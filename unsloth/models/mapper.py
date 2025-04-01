@@ -618,11 +618,6 @@ __INT_TO_FLOAT_MAPPER = \
         "Qwen/Qwen2.5-VL-7B-Instruct",
         "unsloth/Qwen2.5-VL-7B-Instruct-bnb-4bit",
     ),
-    "unsloth/Qwen2.5-VL-72B-Instruct-unsloth-bnb-4bit" : (
-        "unsloth/Qwen2.5-VL-72B-Instruct",
-        "Qwen/Qwen2.5-VL-72B-Instruct",
-        "unsloth/Qwen2.5-VL-72B-Instruct-bnb-4bit",
-    ),
     "unsloth/DeepScaleR-1.5B-Preview-unsloth-bnb-4bit" : (
         "unsloth/DeepHermes-3-Llama-3-8B-Preview",
         "agentica-org/DeepScaleR-1.5B-Preview",
